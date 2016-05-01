@@ -1,0 +1,6 @@
+[package]
+name = "chest"
+version = "0.1.0"
+authors = ["aharutyunyan <aharutyunyan@rmn.com>"]
+
+[dependencies]
